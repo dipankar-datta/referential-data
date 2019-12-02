@@ -1,0 +1,2 @@
+Sample project on Spring, OAuth2 and Angular
+https://www.baeldung.com/rest-api-spring-oauth2-angular
