@@ -3,3 +3,4 @@ https://www.baeldung.com/rest-api-spring-oauth2-angular
 
 Spring boot project for OAuth2
 https://spring.io/guides/tutorials/spring-boot-oauth2/
+https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide
