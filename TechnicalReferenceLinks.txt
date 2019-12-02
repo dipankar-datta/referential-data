@@ -1,2 +1,5 @@
 Sample project on Spring, OAuth2 and Angular
 https://www.baeldung.com/rest-api-spring-oauth2-angular
+
+Spring boot project for OAuth2
+https://spring.io/guides/tutorials/spring-boot-oauth2/
