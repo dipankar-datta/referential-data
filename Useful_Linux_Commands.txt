@@ -1,0 +1,2 @@
+# To open VS Code as root user or admin
+sudo code --user-data-dir="~/.vscode-root"
