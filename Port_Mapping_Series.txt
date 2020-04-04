@@ -1,0 +1,5 @@
+Jenkins: 8010 - 8019
+
+Tomcat: 8080 - 8089
+
+Microservices: 5000 - 5999
