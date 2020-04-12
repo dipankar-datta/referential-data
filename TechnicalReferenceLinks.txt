@@ -7,3 +7,6 @@ https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide
 
 Olympic winners JS AG Grid link
 https://raw.githubusercontent.com/ag-grid/ag-grid/master/packages/ag-grid-docs/src/olympicWinnersSmall.json
+
+JSONPlaceholder - Fake Online REST API for Testing and Prototyping
+http://jsonplaceholder.typicode.com/
