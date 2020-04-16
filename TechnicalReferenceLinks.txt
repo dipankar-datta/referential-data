@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/ag-grid/ag-grid/master/packages/ag-grid-docs/s
 
 JSONPlaceholder - Fake Online REST API for Testing and Prototyping
 http://jsonplaceholder.typicode.com/
+
+How to make columns resizable in HTML table
+https://www.brainbell.com/javascript/making-resizable-table-js.html
