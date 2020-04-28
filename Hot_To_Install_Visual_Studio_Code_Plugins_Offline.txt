@@ -1,0 +1,20 @@
+Sample
+https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/vscjava/extension/vscode-java-debug/0.12.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage
+
+Then rename Microsoft.VisualStudio.Services.VSIXPackage.zip to Microsoft.VisualStudio.Services.VSIXPackage.vsix. That way you can use Extensions: install from VSIX... from within VSCode.
+The scheme is:
+https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/$PUBLISHER_ID/extension/$EXT_ID/$VERSION/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage
+
+For that extension:
+•	PUBLISHER_ID - vscjava
+•	EXT_ID - vscode-java-debug
+•	VERSION - 0.12.0
+(None of this is official and it could break in the future)
+
+We can find following field in Microsoft Plugins page
+Unique Identifier :  ms-azuretools.vscode-docker
+
+Here ms-azuretools is the publisher id and vscode-docker is the plugin id. Publisher id and plugin id is separated by dot. Together they form Unique identifier.
+
+We can find the required version in Changelog section of the plugin.
+
