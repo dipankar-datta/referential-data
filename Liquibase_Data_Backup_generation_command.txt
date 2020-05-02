@@ -1,0 +1,15 @@
+mvn liquibase:generateChangeLog -Dliquibase.diffTypes=data
+
+or 
+
+liquibase 
+ --driver=com.microsoft.sqlserver.jdbc.SQLServerDriver 
+ --classpath="C:\\Program Files\\Microsoft JDBC Driver 6.0 for SQL Server\\sqljdbc_6.0\\enu\\jre8" 
+ --url="jdbc:sqlserver://localhost:1433;databaseName=AdventureWorks2017;integratedSecurity=false;" 
+ --changeLogFile="D:\Source\generateChangeLog--PersonSchema.xml" 
+ --username=liquibase 
+ --password=liquibase@123  
+ --logLevel=info
+ --defaultSchemaName=dbo
+ --diffTypes=data
+generateChangeLog
