@@ -1,3 +1,7 @@
+For exporting schema
+mvn liquibase:generateChangeLog
+
+For exporting data
 mvn liquibase:generateChangeLog -Dliquibase.diffTypes=data
 
 or 
